@@ -1,0 +1,2 @@
+# Fotokopi
+Nama Database : Fotokopi
